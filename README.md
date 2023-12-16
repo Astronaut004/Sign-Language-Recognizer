@@ -77,7 +77,7 @@ Before you begin, ensure you have the following dependencies installed:
 
 ## Project Structure
 
-- `fron.py`: Main Flask application file.
+- `front.py`: Main Flask application file.
 - `templates/`: Folder containing html and css file.
 - `Model/`: Folder containing the trained machine learning model.
 
