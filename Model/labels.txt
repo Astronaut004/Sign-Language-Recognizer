@@ -1,0 +1,21 @@
+0 0
+1 1
+2 2
+3 3
+4 4
+5 5
+6 6
+7 7
+8 8
+9 9
+10 A
+11 B
+12 Bang Bang
+13 C
+14 Down
+15 Good
+16 I Love You
+17 Loser
+18 NO
+19 UP
+20 YES
